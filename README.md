@@ -1,5 +1,5 @@
 # cuaca-wilayah-indonesia
-aplikasi cuaca wilayah indonesia berbasis progressive web app (PWA)
+aplikasi cuaca wilayah indonesia berbasis progressive web app (PWA).
 hujan ga terkira?repot juga kalau tiba-tiba ujan. pengen download aplikasi tapi sizenya kegedean? 
 pengen liat di web tapi males nyarinya? sekarang udah ada aplikasi smartphone dan tanpa instalasi ! 
 space di smartphone kamu juga bakal lebih lega. dan yang penting tanpa nyari di google apalagi nginget alamat URLnya.
